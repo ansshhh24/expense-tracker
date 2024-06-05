@@ -20,6 +20,7 @@ connectDB();
 const allowedOrigins = [
   
   "http://localhost:3000",
+  "https://expense-tracker-eight-rosy.vercel.app/register",
   // add more origins as needed
 ];
 
