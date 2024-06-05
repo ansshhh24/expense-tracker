@@ -21,6 +21,7 @@ const allowedOrigins = [
   
   "http://localhost:3000",
   "https://expense-tracker-gx3x9urvz-ansh-sharmas-projects-c85eb330.vercel.app",
+  "https://expense-tracker-eight-rosy.vercel.app",
   // add more origins as needed
 ];
 
